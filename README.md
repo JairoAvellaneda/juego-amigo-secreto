@@ -11,12 +11,16 @@ Este proyecto es una aplicación web sencilla en JavaScript para organizar un ju
 ![](https://github.com/JairoAvellaneda/juego-amigo-secreto/blob/main/validacion%20de%20nombres.jpg)
 
 4. Mostrar la lista actualizada en pantalla.
+![](https://github.com/JairoAvellaneda/juego-amigo-secreto/blob/main/lista%20de%20nombres.jpg)
 
-5. Eliminar nombres de la lista.
+6. Eliminar nombres de la lista si se desea.
+![](https://github.com/JairoAvellaneda/juego-amigo-secreto/blob/main/presionar%20x%20si%20quieres%20eliminar.jpg)
 
-6. Realizar un sorteo aleatorio.
+8. Realizar un sorteo aleatorio y validacion de la lista de nombres.
+![](https://github.com/JairoAvellaneda/juego-amigo-secreto/blob/main/validar%20la%20lista%20al%20sortear.jpg)
 
-7. Mostrar el resultado del sorteo en pantalla.
+10. Mostrar el resultado del sorteo en pantalla.
+![](https://github.com/JairoAvellaneda/juego-amigo-secreto/blob/main/resultado%20de%20sorteo.jpg)
 
 -INSTALACION Y USO
 
