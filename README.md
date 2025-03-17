@@ -5,9 +5,10 @@ Este proyecto es una aplicación web sencilla en JavaScript para organizar un ju
 -CARACTERISTICAS
 
 1. Agregar nombres a una lista.
-   ![](https://github.com/JairoAvellaneda/juego-amigo-secreto/blob/main/A%C3%B1adir%20nombre%20en%20el%20campo%20de%20texto.jpg)
+![](https://github.com/JairoAvellaneda/juego-amigo-secreto/blob/main/A%C3%B1adir%20nombre%20en%20el%20campo%20de%20texto.jpg)
 
-3. Validar que los nombres no estén vacíos.
+3. Validar que el campo de texto contenga un nombre y no este vacio.
+![](https://github.com/JairoAvellaneda/juego-amigo-secreto/blob/main/validacion%20de%20nombres.jpg)
 
 4. Mostrar la lista actualizada en pantalla.
 
