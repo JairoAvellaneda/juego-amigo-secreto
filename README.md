@@ -1,7 +1,6 @@
 JUEGO DEL AMIGO SECRETO
 
-Este proyecto es una aplicación web sencilla en JavaScript para organizar un juego de Amigo Secreto. Permite a los usuarios agregar nombres a una lista, visualizar los participantes, eliminar nombres si es necesario y realizar un sorteo aleatorio para seleccionar un amigo secreto. También incluye una opción para resetear el sorteo sin necesidad de recargar la página.
-
+Este proyecto es una aplicación web sencilla en JavaScript para organizar un juego de Amigo Secreto. Permite a los usuarios agregar nombres a una lista, visualizar los participantes, eliminar nombres si es necesario y realizar un sorteo aleatorio para seleccionar un amigo secreto. 
 -CARACTERISTICAS
 
 1. Agregar nombres a una lista.
