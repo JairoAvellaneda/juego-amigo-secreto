@@ -5,16 +5,17 @@ Este proyecto es una aplicación web sencilla en JavaScript para organizar un ju
 -CARACTERISTICAS
 
 1. Agregar nombres a una lista.
+   ![](
 
-2. Validar que los nombres no estén vacíos.
+3. Validar que los nombres no estén vacíos.
 
-3. Mostrar la lista actualizada en pantalla.
+4. Mostrar la lista actualizada en pantalla.
 
-4. Eliminar nombres de la lista.
+5. Eliminar nombres de la lista.
 
-5. Realizar un sorteo aleatorio.
+6. Realizar un sorteo aleatorio.
 
-6. Mostrar el resultado del sorteo en pantalla.
+7. Mostrar el resultado del sorteo en pantalla.
 
 -INSTALACION Y USO
 
